@@ -1,3 +1,5 @@
+"Esta é a segunda parte de meu trabalho, onde contem o meu SQL"
+
 create table funcionarios(
 id SERIAL PRIMARY KEY,
 nome varchar(100) not null,
