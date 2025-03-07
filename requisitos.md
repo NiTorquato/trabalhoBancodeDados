@@ -22,3 +22,12 @@ Para os funcionários que são animadores precisa ser feito uma análise de suas
 Deve-se armazenar também informações sobre os dependentes de cada funcionário para propósitos de contribuição a família e acesso antecipado para futuros lançamentos.
 Deve-se armazenar o nome, o sexo e a data de aniversário, além do grau de parentesco com o funcionário, idade e plataforma disponível.
 ```
+
+## Diagrama de Relacionamento
+![Diagrama de Relacionamento](https://github.com/user-attachments/assets/cf76efcd-538b-4efc-94d5-d415b38ed6dc)
+
+## Modelo Relacional
+
+![Modelo Relacional](https://github.com/user-attachments/assets/21ce3057-a643-4c82-8a32-cb43f27d2549)
+
+
